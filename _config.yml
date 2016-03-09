@@ -1,0 +1,28 @@
+name: VRNexus
+favicon: null
+layout_spectrum: 0.8870761878788471
+typography_spectrum: 0.4790910822339356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.479831651551649
+  lightness: 0.028442947193980217
+  saturation: 0.8614581767469645
+  rhythmicContrast: 0.28734502173028886
+purpose: []
